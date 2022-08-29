@@ -1,8 +1,11 @@
-# Name（リポジトリ/プロジェクト/OSSなどの名前）
+# GitHub
 
-分かりやすくてカッコイイ名前をつける（今回は"hoge"という名前をつける）
+# 概要
+リモートリポジトリ
 
-"hoge"が何かを簡潔に紹介する
+ローカルリポジトリ
+
+プル・コミット・プッシュ
 
 # DEMO999
 
@@ -14,10 +17,10 @@
 
 # Requirement
 
-"hoge"を動かすのに必要なライブラリなどを列挙する
+"github"を動かすのに必要なライブラリなどを列挙する
 
-* huga 3.5.2
-* hogehuga 1.0.2
+* git
+* toratsasgit
 
 # Installation
 
@@ -35,6 +38,10 @@ DEMOの実行方法など、"hoge"の基本的な使い方を説明する
 git clone https://github.com/hoge/~
 cd examples
 python demo.py
+```
+
+```
+aa
 ```
 
 # Note
@@ -57,3 +64,57 @@ python demo.py
 社内向けなら社外秘であることを明示してる
 
 "hoge" is Confidential.
+
+
+- aaa
++ aaa
+* aaa
+
+- aaa
+   - aaa
+      - aaa
+        
+1. abc
+1. def
+3. aaa
+2. aas
+
+
+
+> aaa
+
+> bbb
+
+
+>> ccc
+>> dd
+>>
+
+- aa
+
+::: note info 
+ aaa
+:::
+
+
+:::note info
+インフォメーション
+infoは省略可能です。
+:::
+
+[ ] タスク1
+[x] タスク
+
+
+
+
+::: note info
+innfo 
+::: 
+
+
+
+
+- [ ] タスク1
+- [x] タスク2
+
